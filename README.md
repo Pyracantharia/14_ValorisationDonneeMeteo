@@ -50,6 +50,7 @@ Le build Docker est fait dans la CI, et le push registry est verrouille sur la b
 
 ```bash
 docker compose -f docker-compose.dev.yml up -d
+
 ```
 
 ### Interfaces
